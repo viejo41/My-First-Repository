@@ -7,7 +7,7 @@ As a test platform, I can append to this as I add projects.
 
 Sooo, here is my *first* edit; done right on GitHub rather than my own machine.  Later, I'll learn to pull and push changes made on my own machine back and forth to GitHub.
 
-Here is a list of items:
+Here is a list of items I've made on my own PC using VSCode:
 
 1.  Item 1
 1.  Item 2
